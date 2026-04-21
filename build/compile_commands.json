@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/vigil/stuffs/opt-flow-parallel/build",
+  "command": "/usr/bin/c++  -I/home/vigil/stuffs/opt-flow-parallel/include -isystem /usr/include/opencv4  -fopenmp -g -std=gnu++17 -o CMakeFiles/opt-flow-parallel.dir/main.cpp.o -c /home/vigil/stuffs/opt-flow-parallel/main.cpp",
+  "file": "/home/vigil/stuffs/opt-flow-parallel/main.cpp",
+  "output": "CMakeFiles/opt-flow-parallel.dir/main.cpp.o"
+},
+{
+  "directory": "/home/vigil/stuffs/opt-flow-parallel/build",
+  "command": "/usr/bin/c++  -I/home/vigil/stuffs/opt-flow-parallel/include -isystem /usr/include/opencv4  -fopenmp -g -std=gnu++17 -o CMakeFiles/opt-flow-parallel.dir/src/opt_flow_parallel.cpp.o -c /home/vigil/stuffs/opt-flow-parallel/src/opt_flow_parallel.cpp",
+  "file": "/home/vigil/stuffs/opt-flow-parallel/src/opt_flow_parallel.cpp",
+  "output": "CMakeFiles/opt-flow-parallel.dir/src/opt_flow_parallel.cpp.o"
+},
+{
+  "directory": "/home/vigil/stuffs/opt-flow-parallel/build",
+  "command": "/usr/bin/c++  -I/home/vigil/stuffs/opt-flow-parallel/include -isystem /usr/include/opencv4  -fopenmp -g -std=gnu++17 -o CMakeFiles/opt-flow-parallel.dir/src/opt_flow_serial.cpp.o -c /home/vigil/stuffs/opt-flow-parallel/src/opt_flow_serial.cpp",
+  "file": "/home/vigil/stuffs/opt-flow-parallel/src/opt_flow_serial.cpp",
+  "output": "CMakeFiles/opt-flow-parallel.dir/src/opt_flow_serial.cpp.o"
+}
+]
