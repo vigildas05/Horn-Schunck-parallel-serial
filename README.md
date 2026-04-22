@@ -8,6 +8,7 @@ This project implements the **Horn–Schunck (HS) dense optical flow algorithm**
 * **Parallel version** using **OpenMP** (Jacobi double buffering)
 
 Given two consecutive grayscale frames, the algorithm estimates a **dense motion field** for each pixel, represented by horizontal (**u**) and vertical (**v**) flow components.
+<img width="4094" height="2158" alt="image" src="https://github.com/user-attachments/assets/f487df7a-de73-4235-a9e1-2f95a04da3ec" />
 
 ---
 
